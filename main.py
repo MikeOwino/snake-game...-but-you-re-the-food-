@@ -13,7 +13,7 @@ MOVEMENT_MAP = {LEFT: [0, -1], UP: [-1, 0], RIGHT: [0, 1], DOWN: [1, 0]}
 WASD_MAP = {'w': UP, 'a': LEFT, 's': DOWN, 'd': RIGHT, 'W': UP, 'A': LEFT, 'S': DOWN, 'D': RIGHT}
 dead = False
 
-# -------CONFIG--------
+# -------CONFIG---------
 BORDER = '⬜️'
 BODY = '🟩'
 HEAD = '🟥'
