@@ -195,3 +195,4 @@ if dead:
   print('you were eaten by the snake!' + term.clear_eos)
 else:
   print('woah you won!! how did you do it?!' + term.clear_eos)
+  
